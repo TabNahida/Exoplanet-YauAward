@@ -1,7 +1,7 @@
 # Exoplanet-YauAward
 Secondary Eclipse and Day-Night Modulation of Exoplanets Observed by Transiting Exoplanet Survey Satellite
 
-![TESS](https://raw.githubusercontent.com/TabNahida/Exoplanet-YauAward/main/docs/image/sky_coverage.png)
+![TESS](https://raw.githubusercontent.com/TabNahida/Exoplanet-YauAward/main/sky_coverage.png)
 
 ## Introduction
 
@@ -17,6 +17,6 @@ In this study, we develop an efficient Python program to search for the secondar
 
 ## Dependence
 
-1. Python 3.8
-2. Matlib (for plotting) 
-3. Data from [TESS](https://tess.mit.edu)
+- Python 3.8
+- Matlib (for plotting) 
+- Data from [TESS](https://tess.mit.edu)
